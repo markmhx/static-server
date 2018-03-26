@@ -1,0 +1,9 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "park-ranger": "^1.0.11"
+  }
+}
